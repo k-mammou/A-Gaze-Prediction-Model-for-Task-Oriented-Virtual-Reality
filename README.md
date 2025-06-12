@@ -21,13 +21,26 @@ In this work, we present a gaze prediction model for Virtual Reality task-orient
 - [FinalEvaluation2.ipynb](https://github.com/k-mammou/A-Gaze-Prediction-Model-for-Task-Oriented-Virtual-Reality/blob/main/FinalEvaluation2.ipynb): Calculate angular error, recall rate, CDF, compare with baselines.
 - [Visualisation.ipynb](https://github.com/k-mammou/A-Gaze-Prediction-Model-for-Task-Oriented-Virtual-Reality/blob/main/Visualisation.ipynb): Plot predictions on frames.
 
-**Results**<br>
-<p align="center">
+**Visualised Results**<br>
+<p align="left">
   <img src="images/vis1.png" alt="Architecture" width="300"/>
-  <img src="images/vis1.png" alt="Heatmap" width="300"/>
-   <img src="images/vis1.png" alt="Heatmap" width="300"/>
-
+  <img src="images/vis11.png" alt="Heatmap" width="300"/>
 </p>
+<p align="left">
+  <img src="images/vis18.png" alt="Architecture" width="300"/>
+  <img src="images/vis32.png" alt="Heatmap" width="300"/>
+</p>
+<p align="left">
+  <img src="images/vis35.png" alt="Architecture" width="300"/>
+  <img src="images/vis4.png" alt="Heatmap" width="300"/>
+</p>
+<p align="left">
+  <img src="images/vis41.png" alt="Architecture" width="300"/>
+  <img src="images/vis43.png" alt="Heatmap" width="300"/>
+</p>
+
+The **purple** cross denotes the **ground truth** gaze position, with the purple circle illustrating the foveal region with radius 15°. The **yellow** cross represents the **prediction** of our model, the **red** cross shows the **center baseline** and the **blue** the **mean baseline**.
+
 
 ---
 ## Citation
