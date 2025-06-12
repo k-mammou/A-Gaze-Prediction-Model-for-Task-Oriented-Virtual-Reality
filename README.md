@@ -11,13 +11,14 @@ This repository contains the code developed for my diploma thesis.
 ---
 
 ## Project Overview
+In this work, we present a gaze prediction model for Virtual Reality task-oriented environments. Unlike past work which focuses on gaze prediction for specific tasks, we investigate the role and potential of **temporal continuity** in enabling accurate predictions in **diverse task categories**. The model reduces input complexity while maintaining high prediction accuracy. Evaluated on the [OpenNEEDS dataset](https://dl.acm.org/doi/abs/10.1145/3448018.3457996), it significantly outperforms baseline methods. The model demonstrates strong potential for integration into gaze-based VR interactions and foveated rendering pipelines. Future work will focus on runtime optimization and expanding evaluation across diverse VR scenarios.
 
 
 
 
 ---
 ## Citation
-If you use this work in your research, please cite the following paper:
+If you find this repo useful to your project, please consider citing the following paper: 
 ```
 @inproceedings{10.2312:egp.20251020,
 booktitle = {Eurographics 2025 - Posters},
