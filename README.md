@@ -20,7 +20,14 @@ In this work, we present a gaze prediction model for Virtual Reality task-orient
 - [FullModel.ipynb](https://github.com/k-mammou/A-Gaze-Prediction-Model-for-Task-Oriented-Virtual-Reality/blob/main/FullModel.ipynb): Model architecture and training.
 - [FinalEvaluation2.ipynb](https://github.com/k-mammou/A-Gaze-Prediction-Model-for-Task-Oriented-Virtual-Reality/blob/main/FinalEvaluation2.ipynb): Calculate angular error, recall rate, CDF, compare with baselines.
 - [Visualisation.ipynb](https://github.com/k-mammou/A-Gaze-Prediction-Model-for-Task-Oriented-Virtual-Reality/blob/main/Visualisation.ipynb): Plot predictions on frames.
-  
+
+**Results**<br>
+<p align="center">
+  <img src="images/vis1.png" alt="Architecture" width="300"/>
+  <img src="images/vis1.png" alt="Heatmap" width="300"/>
+   <img src="images/vis1.png" alt="Heatmap" width="300"/>
+
+</p>
 
 ---
 ## Citation
